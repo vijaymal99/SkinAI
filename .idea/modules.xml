@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/expo-template.iml" filepath="$PROJECT_DIR$/.idea/expo-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SkinAI.iml" filepath="$PROJECT_DIR$/.idea/SkinAI.iml" />
     </modules>
   </component>
 </project>

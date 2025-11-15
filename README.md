@@ -71,8 +71,8 @@ app/                     # Expo Router navigation
  ├── (drawer)/           # Drawer navigator
  │   └── (tabs)/         # Tabs inside drawer
  │       ├── _layout.tsx
- │       ├── index.tsx
- │       └── profile.tsx
+ │       ├── index.jsx
+ │       └── image.tsx
  └── _layout.tsx         # Root layout
 
 src/
